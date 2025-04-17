@@ -1,6 +1,6 @@
 # **BFInterpreter** ![Python](https://img.shields.io/badge/Python-3.x-blue.svg) ![License](https://img.shields.io/badge/License-MIT-green.svg) ![Repo size](https://img.shields.io/github/repo-size/Zelpak/BFInterpreter?color=blue&label=Repo%20Size&style=flat-square) ![Issues](https://img.shields.io/github/issues/Zelpak/BFInterpreter?style=flat-square) ![Forks](https://img.shields.io/github/forks/Zelpak/BFInterpreter?style=flat-square) ![Stars](https://img.shields.io/github/stars/Zelpak/BFInterpreter?style=flat-square)
 
-**BFInterpreter** is a simple and efficient Brainfuck interpreter written in Python. It executes Brainfuck code files (`.bf` or `.b`), supporting all standard Brainfuck commands and handling loops/nested operations. Perfect for experimenting with or learning the Brainfuck language.
+**BFInterpreter** is a simple and efficient Brainfuck interpreter written in Python. It executes Brainfuck code files (`.bf` or `.b`), supporting all standard Brainfuck commands and handling loops/nested operations. Perfect for experimenting with or learning the Brainfuck language. (Bugs may be found, please issue a report on the issue page
 
 ---
 
