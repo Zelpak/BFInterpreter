@@ -41,4 +41,3 @@ def Exc(code):
 
 with open("main.b", "r", encoding='utf-8') as f: # set main.b as your code's name
     Exc(f.read())
-# Bugs may be found, if so please issue a report in https://github.com/Zelpak/BFInterpreter/issues
